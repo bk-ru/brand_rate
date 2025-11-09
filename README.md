@@ -31,16 +31,16 @@ pytest --cov=brand_rate --cov=main
 
 #### Вывод help:
 
-![help](img\help.png)
+![help](img/help.png)
 
 #### Вывод по конкретным файлам:
 
-![help](img\fyles.png)
+![help](img/fyles.png)
 
 #### Вывод по конкретной папке:
 
-![help](img\path.png)
+![help](img/path.png)
 
 #### Вывод с ошибкой:
 
-![help](img\error.png)
+![help](img/error.png)
